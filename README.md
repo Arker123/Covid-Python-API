@@ -1,2 +1,2 @@
-# Covid-Python-API
-Python API for measuring number of Covid cases
+# Covid-Python-Calculator
+Number of covid cases calculator of States in India
